@@ -7,6 +7,6 @@ The image is build on top of jboss/Infinispan-server images and applies several 
 Changes
 -------
  - Work around Infinispan known issues with rest endpoints and authentication (disable authentication).
- - Jolokia agent support
+ - Fabric8 / Kubernetes discovery for JGroups
 
 Enjoy!
